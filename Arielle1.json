@@ -1,0 +1,11 @@
+{
+    "objs":[
+        {
+            "geo": "Box",
+            "posX": 0,
+            "posY": 0,
+            "posZ": 0,
+            "colr": "0xff9977"
+        }
+    ]
+}
